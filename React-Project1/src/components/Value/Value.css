@@ -1,0 +1,10 @@
+.v-container>image-container{
+    border: 8px solid black;
+}
+.v-container>div{
+    flex:1;
+
+}
+.v-right{
+    gap:0.5rem;
+}
